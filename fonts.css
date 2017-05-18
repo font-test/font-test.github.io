@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Helvetica Light';
+  src: url('fonts/HelveticaNeueCyr-Light.otf');
+}
+
+@font-face {
+  font-family: 'chHelveticaLight';
+  src: url('fonts/HelveticaNeueCyr-Light.otf');
+}
+
+@font-face {
+  font-family: 'Liberation Sans';
+  src: url('fonts/LiberationSansRegular.woff'),
+    url('fonts/LiberationSansRegular.ttf'),
+    url('fonts/LiberationSansRegular.eot');
+}
+
+@font-face {
+  font-family: 'chLiberationSans';
+    src: url('fonts/LiberationSansRegular.woff'),
+    url('fonts/LiberationSansRegular.ttf'),
+    url('fonts/LiberationSansRegular.eot');
+}
